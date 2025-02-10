@@ -1,4 +1,4 @@
-```markdown
+
 # TMU Hub Mobile: Open Source Mobile App Project
 
 Welcome to the TMU Hub Mobile project! This initiative follows the Clean Architecture model and uses the BLoC pattern for state management. This guide will help you set up, develop, and contribute to the mobile app built with Flutter.
@@ -135,4 +135,3 @@ TMU Hub Mobile is licensed under the MIT License. See the [LICENSE](LICENSE) fil
 - All the developers and students for making this open source project a collaborative learning journey.
 
 Happy coding!
-```
